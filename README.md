@@ -34,6 +34,6 @@ The dashboard was built to provide insights into:
 ---
 
 ## How to Use  
-1. Open the `Sales_Dashboard.xlsx` file  
+1. Open the `Interactive_Dashboard.xlsx` file  
 2. Explore different charts and filters  
-3. Review the PDF for summarized insights  
+3. Review the docx file for summarized insights  
